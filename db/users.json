@@ -1,0 +1,114 @@
+{
+  "user": [
+    {
+      "id": "101",
+      "firstname": "chotta",
+      "lastname": "bhim",
+      "email": "nikhilsehrawat955@gmail.com",
+      "password": "123456",
+      "city": "rewari",
+      "state": "haryana",
+      "pincode": "122105",
+      "address": "rewari"
+    },
+    {
+      "id": "102",
+      "firstname": "raju",
+      "lastname": "singh",
+      "email": "raju222@gmail.com",
+      "password": "1234567",
+      "city": "rewari",
+      "state": "haryana",
+      "pincode": "122105",
+      "address": "rewari"
+    },
+    {
+      "id": "eba5",
+      "firstname": "nikhil",
+      "lastname": "ji",
+      "email": "nikhilsehrawat966@gmail.com",
+      "password": "jaat123",
+      "address": "hassanpur",
+      "city": "tauru",
+      "state": "hhart",
+      "pincode": "122105"
+    },
+    {
+      "id": "0313",
+      "firstname": "tonu",
+      "lastname": "ji",
+      "email": "tonu966@gmail.com",
+      "password": "tonu123",
+      "address": "rewari",
+      "city": "rewari",
+      "state": "haryana",
+      "pincode": "122105"
+    },
+    {
+      "id": "5658",
+      "firstname": "jhkjhkj",
+      "lastname": "556",
+      "email": "jhjg@gmail.com",
+      "password": "ghv",
+      "address": "ffggb",
+      "city": "hftyfy",
+      "state": "fhyth",
+      "pincode": "ytfnyh"
+    },
+    {
+      "id": "1979",
+      "firstname": "pawan",
+      "lastname": "hb",
+      "email": "nikhil@gmail.com",
+      "password": "ghv",
+      "address": "ffggb",
+      "city": "hftyfy",
+      "state": "fhyth",
+      "pincode": "ytfnyh"
+    },
+    {
+      "id": "18ae",
+      "firstname": "nikhil",
+      "lastname": "sehrawat",
+      "email": "nikhiljaat550@gmail.com",
+      "password": "9812257181",
+      "address": "mh",
+      "city": "tauru",
+      "state": "hr",
+      "pincode": "122105"
+    },
+    {
+      "id": "c2db",
+      "firstname": "pinku",
+      "lastname": "kumar",
+      "email": "pinku55@gmail.com",
+      "password": "pinku123",
+      "address": "gur.",
+      "city": "gurgoan",
+      "state": "hrya..",
+      "pincode": "122115"
+    },
+    {
+      "id": "16da",
+      "firstname": "sonu",
+      "lastname": "thakur",
+      "email": "sonu444@gmail.com",
+      "password": "sonu444ghv",
+      "address": "rampura",
+      "city": "gur.",
+      "state": "haryana",
+      "pincode": "122122"
+    },
+    {
+      "id": "e763",
+      "firstname": "chinu",
+      "lastname": "rathi",
+      "email": "chinu333@gmail.com",
+      "password": "chinu333",
+      "address": "khedki",
+      "city": "gur.",
+      "state": "haryana",
+      "pincode": "122122"
+    }
+  ]
+}

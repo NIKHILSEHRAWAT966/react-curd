@@ -1,0 +1,25 @@
+// CRUD -> CREAT(POST) READ(GET) UPDATE(PUT) DELETE
+
+# GET http://localhost:3000/user
+
+GET http://localhost:6000/user
+
+# POST http://localhost:3000/user HTTP/1.1
+# Content-Type: : application/json
+
+
+# {
+#     "id":100,
+#     "name":"tv",
+#     "price":12000,
+# }
+
+# PUT http://localhost:3000/user/2 HTTP/1.1
+# Content-Type: : application/json
+
+# {
+#     "name":"Samsung TV",
+#     "price":21000, 
+# }
+
+# DELETE  http://localhost:3000/user/20 HTTP/1.1
